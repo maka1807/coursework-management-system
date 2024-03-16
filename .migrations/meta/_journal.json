@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710594570087,
+      "tag": "0000_talented_pepper_potts",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1710594659726,
+      "tag": "0001_milky_madame_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710596329102,
+      "tag": "0002_shallow_payback",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710600797331,
+      "tag": "0003_sparkling_the_captain",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1710601507222,
+      "tag": "0004_bumpy_quentin_quire",
+      "breakpoints": true
+    }
+  ]
+}
